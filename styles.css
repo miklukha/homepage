@@ -114,6 +114,7 @@ body {
   width: 20px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .contact-info__item-icon path {
@@ -142,7 +143,7 @@ body {
 }
 
 .intro__icon-wrapper {
-  margin-right: 30px;
+  margin-right: 20px;
   width: 30px;
   display: flex;
   justify-content: center;
